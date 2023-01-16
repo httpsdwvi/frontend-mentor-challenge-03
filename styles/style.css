@@ -75,7 +75,7 @@ h2 {
 .attribution {
     margin-top: -1.875rem;
     min-width: 100vw;
-    font-size: 11px;
+    font-size: 0.688rem;
     text-align: center;
 }
 
@@ -92,4 +92,5 @@ h2 {
         height: 93%;
         width: 93%;
     }
+
 }
